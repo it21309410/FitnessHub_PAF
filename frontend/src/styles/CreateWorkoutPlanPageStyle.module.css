@@ -1,0 +1,93 @@
+.contact {
+  padding: 50px 0;
+  background: linear-gradient(to right, #BE93C5, #7BC6CC);
+}
+
+.contact_col {
+  background-color: #f8fafb;
+  border-radius: 10px;
+  padding: 40px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.contact_colller {
+  width: 50%;
+  border-radius: 10px;
+  padding: 30px;
+  border: 10px solid #85c1ec;
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+}
+
+input[type='text'],
+textarea,
+select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.meal_card {
+  width: 15rem;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+}
+
+/* Table Styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #e2e2e2;
+}
+
+.dis{
+  padding-left: 0%;
+  padding-bottom: 1%;
+  padding-right: 0%;
+
+}
+.rop{
+  text-align: center;
+  font-size: 40px;
+  border: 6px solid #90d0eb;
+  border-radius: 4px;
+}
+
+
+  
